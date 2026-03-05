@@ -1,0 +1,15 @@
+{
+  "name": "openclaw-repo",
+  "version": "1.0.0",
+  "description": "OpenClaw自动化编程写系统，完成代码编程、运行测试、构建项目流程",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "automation",
+    "demo"
+  ],
+  "author": "lu-zc22",
+  "license": "MIT"
+}
